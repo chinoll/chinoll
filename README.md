@@ -1,4 +1,4 @@
-### chinoll blog
+### chinoll info
 [![Top Langs](https://github-readme-stats-iota-black.vercel.app/api/top-langs/?username=chinoll&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 [![Anurag's GitHub stats](https://github-readme-stats-iota-black.vercel.app/api?username=chinoll&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
